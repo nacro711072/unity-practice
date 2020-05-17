@@ -1,0 +1,8 @@
+Library
+unity-android
+ProjectSettings
+Logs
+obj
+Temp
+*.cs.meta
+*.meta
